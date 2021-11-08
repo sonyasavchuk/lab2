@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<studentDataBase>
+    <student
+        Name="Joseph Stalin" 
+        Faculty="Cybernetics"
+        Department="CS" 
+        Course="1" 
+        Mark="4">
+    </student>
+    
+    <student
+        Name="Adolf Hitler" 
+        Faculty="Mechmat" 
+        Department="KM" 
+        Course="4" 
+        Mark="3">
+    </student>
+    
+    <student
+        Name="Vladimir Lenin" 
+        Faculty="Mechmat" 
+        Department="Maths" 
+        Course="2" 
+        Mark="4" >
+    </student>
+    
+    <student
+        Name="Olga of Kyiv" 
+        Faculty="Cybentetics" 
+        Department="PI" 
+        Course="2" 
+        Mark="5">
+    </student>
+    
+    <student
+        Name="Victor Yanukovych" 
+        Faculty="Cybernetics" 
+        Department="SA" 
+        Course="3" 
+        Mark="1">
+    </student>
+</studentDataBase>
